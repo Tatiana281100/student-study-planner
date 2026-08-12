@@ -36,5 +36,5 @@ These changes were made based on the client's feedback while keeping the main fu
 
 ## Author
 
-Student Name: Ayelen Tatiana Ruggirello
-Student Number: 041169937
+- Student Name: Ayelen Tatiana Ruggirello
+- Student Number: 041169937
